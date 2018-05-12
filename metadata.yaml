@@ -1,0 +1,34 @@
+_repo: The-King-s-Stratagem-and-Other-Stories_39217
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Craving some classic action-adventure tales? Dive into The King's Stratagem
+  and Other Stories from acclaimed British author Stanley J. Weyman. Known for inserting
+  strong historical elements into his fiction, Weyman was one of the most popular
+  action-adventure writers of his era. These fast-paced tales are sure to please even
+  the most discerning fans of the genre.
+gutenberg_issued: '2012-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: The king's stratagem -- The body-birds of court -- In Cupid's toils
+  -- The drift of fate -- A Blore Manor episode -- The fatal letter.
+title: The King's Stratagem, and Other Stories
+url: http://www.gutenberg.org/ebooks/39217
